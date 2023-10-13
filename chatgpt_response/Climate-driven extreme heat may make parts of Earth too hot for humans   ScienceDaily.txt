@@ -1,0 +1,67 @@
+<title>Climate-driven extreme heat may make parts of Earth too hot for humans | ScienceDaily</title>
+If global temperatures increase by 1 degree Celsius (C) or more than current levels, each year billions of people will 
+be exposed to heat and humidity so extreme they will be unable to naturally cool themselves, according to interdisciplinary research 
+from the Penn State College of Health and Human Development, Purdue University College of Sciences and Purdue Institute for a 
+Sustainable Future. Results from a new article published today (Oct. 9) inProceedings of the National Academy of Sciences indicated that warming of 
+the planet beyond 1.5 C above preindustrial levels will be increasingly devastating for human health across the planet. Humans can only withstand certain combinations of heat and humidity before their bodies begin to experience heat-related health problems, such 
+as heat stroke or heart attack. As climate change pushes temperatures higher around the world, billions of people could be 
+pushed beyond these limits. Since the start of the industrial revolution, when humans began to burn fossil fuels in machines and factories, temperatures around 
+the world have increased by about 1 C, or 1.8 degrees Fahrenheit (F). In 2015, 196 nations signed the Paris 
+Agreement which aims to limit worldwide temperature increases to 1.5 C above pre-industrial levels. The researcher team modeled global temperature increases ranging between 1.5 C and 4 C -- considered the worst-case scenario where 
+warming would begin to accelerate -- to identify areas of the planet where warming would lead to heat and humidity 
+levels that exceed human limits. "To understand how complex, real-world problems like climate change will affect human health, you need expertise both about the planet 
+and the human body," said co-author W. Larry Kenney, professor of physiology and kinesiology, the Marie Underhill Noll Chair in 
+Human Performance at Penn State and co-author of the new study. "I am not a climate scientist, and my collaborators 
+are not physiologists. Collaboration is the only way to understand the complex ways that the environment will affect people's lives 
+and begin to develop solutions to the problems that we all must face together." A threat to billions The ambient wet-bulb temperature limit for young, healthy people is about 31 C, which is equal to 87.8 F at 
+100% humidity, according to work published last year by Penn State researchers. However, in addition to temperature and humidity, the 
+specific threshold for any individual at a specific moment also depends on their exertion level and other environmental factors, including 
+wind speed and solar radiation. In human history, temperatures and humidity that exceed human limits have been recorded only a 
+limited number of times -- and only for a few hours at a time -- in the Middle East and 
+Southeast Asia, according to the researchers. Results of the study indicate that if global temperatures increase by 2 C above pre-industrial levels, the 2.2 billion residents 
+of Pakistan and India's Indus River Valley, the one billion people living in eastern China and the 800 million residents 
+of sub-Saharan Africa will annually experience many hours of heat that surpass human tolerance. These regions would primarily experience high-humidity heatwaves. Heatwaves with higher humidity can be more dangerous because the air cannot absorb 
+excess moisture, which limits sweat evaporates from human bodies and moisture from some infrastructure, like evaporative coolers. Troublingly, researchers said, 
+these regions are also in lower-to-middle income nations, so many of the affected people may not have access to air 
+conditioning or any effective way to mitigate the negative health effects of the heat. If warming of the planet continues to 3 C above pre-industrial levels, the researchers concluded, heat and humidity levels that 
+surpass human tolerance would begin to affect the Eastern Seaboard and the middle of the United States -- from Florida 
+to New York and from Houston to Chicago. South America and Australia would also experience extreme heat at that level 
+of warming. At current levels of heating, the researchers said, the United States will experience more heatwaves, but these heatwaves are not 
+predicted to surpass human limits as often as in other regions of the world. Still, the researchers cautioned that these 
+types of models often do not account for the worst, most unusual weather events. "Models like these are good at predicting trends, but they do not predict specific events like the 2021 heatwave in 
+Oregon that killed more than 700 people or London reaching 40 C last summer," said lead author Daniel Vecellio, a 
+bioclimatologist who completed a postdoctoral fellowship at Penn State with Kenney. "And remember, heat levels then were all below the 
+limits of human tolerance that we identified. So, even though the United States will escape some of the worst direct 
+effects of this warming, we will see deadly and unbearable heat more often. And -- if temperatures continue to rise 
+-- we will live in a world where crops are failing and millions or billions of people are trying to 
+migrate because their native regions are uninhabitable." Understanding human limits and future warming Over the last several years, Kenney and his collaborators have conducted 462 separate experiments to document the combined levels of 
+heat, humidity and physical exertion that humans can tolerate before their bodies can no longer maintain a stable core temperature. "As people get warmer, they sweat, and more blood is pumped to their skin so that they can maintain their 
+core temperatures by losing heat to the environment," Kenney said. "At certain levels of heat and humidity, these adjustments are 
+no longer sufficient, and body core temperature begins to rise. This is not an immediate threat, but it does require 
+some form of relief. If people do not find a way to cool down within hours, it can lead to 
+heat exhaustion, heat stroke and strain on the cardiovascular system that can lead to heart attacks in vulnerable people." In 2022, Kenney, Vecellio and their collaborators demonstrated that the limits of heat and humidity people can withstand are lower 
+than were previously theorized. "The data collected by Kenney's team at Penn State provided much needed empirical evidence about the human body's ability to 
+tolerate heat. Those studies were the foundation of these new predictions about where climate change will create conditions that humans 
+cannot tolerate for long," said co-author Matthew Huber, professor of earth, atmospheric and planetary sciences at Purdue University. When this work was published, Huber, who had already begun work on mapping the impacts of climate change, contacted Vecellio 
+about a potential collaboration. Huber had previously published widely cited work proposing a theoretical limit of humans' heat and humidity 
+limits. The researchers, along with Huber's graduate student, Qinqin Kong, decided to explore how people would be affected in different regions 
+of the world if the planet warmed by between 1.5 C and 4 C. The researchers said that 3 C 
+is the best estimate of how much the planet will warm by 2100 if no action is taken. "Around the world, official strategies for adapting to the weather focus on temperature only," Kong said. "But this research shows 
+that humid heat is going to be a much bigger threat than dry heat. Governments and policymakers need to re-evaluate 
+the effectiveness of heat-mitigation strategies to invest in programs that will address the greatest dangers people will face." Staying safe in the heat Regardless of how much the planet warms, the researchers said that people should always be concerned about extreme heat and 
+humidity -- even when they remain below the identified human limits. In preliminary studies of older populations, Kenney found that 
+older adults experience heat stress and the associated health consequences at lower heat and humidity levels than young people. "Heat is already the weather phenomenon that kills the most people in the United States," Vecellio, now a postdoctoral researcher 
+at George Mason University's Virginia Climate Center, said. "People should care for themselves and their neighbors -- especially the elderly 
+and sick -- when heatwaves hit." The data used in this study examined the body's core temperatures, but the researchers said that during heatwaves, people experience 
+health problems from other causes as well. For example, Kenney said that most of the 739 people who died during 
+Chicago's 1995 heatwave were over 65 and experienced a combination of high body temperature and cardiovascular problems, leading to heart 
+attacks and other cardiovascular causes of death. Looking to the future To stop temperatures from increasing, the researchers cite decades of research indicating that humans must reduce the emission of greenhouse 
+gases, especially the carbon dioxide emitted by burning fossil fuels. If changes are not made, middle-income and low-income countries will 
+suffer the most, Vecellio said. As one example, the researchers pointed to Al Hudaydah, Yemen, a port city of more than 700,000 people on the 
+Red Sea. Results of the study indicated that if the planet warms by 4 C, this city can expect more 
+than 300 days when temperatures exceed the limits of human tolerance every year, making it almost uninhabitable. "The worst heat stress will occur in regions that are not wealthy and that are expected to experience rapid population 
+growth in the coming decades," Huber said. "This is true despite the fact that these nations generate far fewer greenhouse 
+gas emissions than wealthy nations. As a result, billions of poor people will suffer, and many could die. But wealthy 
+nations will suffer from this heat as well, and in this interconnected world, everyone can expect to be negatively affected 
+in some way." This research was supported by grants from the National Institute on Aging, the National Aeronautics and Space Administration, and the 
+National Science Foundation. 

@@ -1,0 +1,22 @@
+<title>AI language models could help diagnose schizophrenia | ScienceDaily</title>
+Scientists at the UCL Institute for Neurology have developed new tools, based on AI language models, that can characterise subtle 
+signatures in the speech of patients diagnosed with schizophrenia. The research, published inPNAS, aims to understand how the automated analysis of language could help doctors and scientists diagnose and 
+assess psychiatric conditions. Currently, psychiatric diagnosis is based almost entirely on talking with patients and those close to them, with only a minimal 
+role for tests such as blood tests and brain scans. However, this lack of precision prevents a richer understanding of the causes of mental illness, and the monitoring of treatment. The researchers asked 26 participants with schizophrenia and 26 control participants to complete two verbal fluency tasks, where they were 
+asked to name as many words as they could either belonging to the category "animals" or starting with the letter 
+"p," in five minutes. To analyse the answers given by participants, the team used an AI language model that had been trained on vast 
+amounts of internet text to represent the meaning of words in a similar way to humans. They tested whether the 
+words people spontaneously recalled could be predicted by the AI model, and whether this predictability was reduced in patients with 
+schizophrenia. They found that the answers given by control participants were indeed more predictable by the AI model than those generated 
+by people with schizophrenia, and that this difference was largest in patients with more severe symptoms. The researchers think that this difference might have to do with the way the brain learns relationships between memories and 
+ideas, and stores this information in so called 'cognitive maps'. They find support for this theory in a second part 
+of the same study where the authors used brain scanning to measure brain activity in parts of the brain involved 
+in learning and storing these 'cognitive maps'. Lead author, Dr Matthew Nour (UCL Queen Square Institute of Neurology and University of Oxford), said: "Until very recently, the 
+automatic analysis of language has been out of reach of doctors and scientists. However, with the advent of artificial intelligence 
+(AI) language models such as ChatGPT, this situation is changing. "This work shows the potential of applying AI language models to psychiatry -- a medical field intimately related to language 
+and meaning." Schizophrenia is a debilitating and common psychiatric disorder that affects around 24 million people worldwide and over 685,000 people in 
+the UK. According to the NHS, symptoms of the condition may include hallucinations, delusions, confused thoughts and changes in behaviour. The team from UCL and Oxford now plan to use this technology in a larger sample of patients, across more 
+diverse speech setting, to test whether it might prove useful in the clinic. Dr Nour said: "We are entering a very exciting time in neuroscience and mental health research. By combining state-of-the-art AI 
+language models and brain scanning technology, we are beginning to uncover how meaning is constructed in the brain, and how 
+this might go awry in psychiatric disorders. There is enormous interest in using AI language models in medicine. If these 
+tools prove safe and robust, I expect they will begin to be deployed in the clinic within the next decade." The study was funded by Wellcome. 
