@@ -8,9 +8,9 @@ openai.api_key = 'YOUR-OWN-KEY'
 
 def webScrapper(link):
     headers = {
-        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) '
-                      'AppleWebKit/537.36 (KHTML, like Gecko) '
-                      'Chrome/115.0.0.0 Safari/537.36 Edg/115.0.1901.188',
+        'User-Agent': 'FILL YOUR OWN '
+                      'FILL YOUR OWN '
+                      'FILL YOUR OWN ',
     }
     url = link
     result = requests.get(url, headers=headers)
